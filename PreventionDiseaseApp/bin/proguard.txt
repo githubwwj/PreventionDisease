@@ -1,0 +1,43 @@
+# view res/layout/main.xml #generated:80
+# view res/layout/prevention_main.xml #generated:48
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/slidingmenumain.xml #generated:2
+-keep class com.jeremyfeinstein.slidingmenu.lib.SlidingMenu { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.prevention.disease.activity.AboutUSActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class com.prevention.disease.activity.InfobackActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.prevention.disease.activity.PDAttachActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class com.prevention.disease.activity.PreventionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class com.prevention.disease.activity.SearchActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class com.prevention.disease.activity.SettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class com.prevention.disease.activity.Welcome { <init>(...); }
+
+# view AndroidManifest.xml #generated:11
+-keep class com.prevention.disease.app.AppApplication { <init>(...); }
+
+# view res/layout/main.xml #generated:25
+-keep class com.prevention.disease.view.ColumnHorizontalScrollView { <init>(...); }
+
+# view res/layout/attacha.xml #generated:51
+-keep class com.prevention.disease.view.CustomExpandableListView { <init>(...); }
+
+# view res/layout/attacha.xml #generated:39
+-keep class com.prevention.disease.view.CustomListView { <init>(...); }
+
+# view res/layout/attacha.xml #generated:20
+-keep class com.prevention.disease.view.CustomScrollView { <init>(...); }
+
