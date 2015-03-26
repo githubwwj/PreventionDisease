@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/green" >
+
+    <ImageView
+        android:id="@+id/menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dip"
+        android:background="@drawable/left_menu"
+        android:gravity="center"
+        android:scaleType="centerInside" />
+    
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:paddingLeft="8dip"
+        android:paddingRight="8dip"
+        android:layout_centerVertical="true"
+        android:text="预防鼻部疾病"
+        android:textColor="@android:color/black"
+        android:textSize="17sp" />
+
+    <ProgressBar
+        android:id="@+id/top_progress"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/title"
+        android:indeterminateOnly="true"
+        android:minHeight="13.0dip"
+        android:minWidth="13.0dip"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="8dip"
+        
+        android:layout_marginRight="8dip"
+        android:background="@drawable/search_button_no_press"
+        android:gravity="center"
+        android:scaleType="centerInside" />
+
+</RelativeLayout>

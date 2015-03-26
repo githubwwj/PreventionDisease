@@ -1,0 +1,24 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:constantSize="true">
+    <!-- 获得焦点时的背景图片 -->
+    <item android:state_focused="true">
+        <shape>
+            <corners android:radius="6dip" />
+            <solid 	 android:color="@color/dark_green"/>
+        </shape>
+    </item>
+    <!-- 设置相应所有事件 -->
+    <item android:state_pressed="true">
+        <shape>
+            <corners android:radius="6dip" />
+            <solid 	 android:color="@color/dark_green"/>
+        </shape>
+    </item>
+    <!-- 默认情况下的背景 -->
+    <item>
+        <shape>
+            <corners android:radius="12dip" />
+            <solid android:color="@color/green" />
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="history_frg_name">Browsing History</string>
+    <string name="rhinitis_prevention_disease_frg_name">Rhinitis Prevention System</string>
+    <string name="tips_fragment_name">Life Tips</string>
+    <string name="recommend_hospital_frg_name">Recommend The Hospital</string>
+    <string name="feedback_frg_name">Information Feedback</string>
+    <string name="about_frg_name">About Us</string>
+     <string name="click_twice_exit">Click back again to exit</string>
+     <string name="no_records">No Records</string>
+    <string name="records">Records</string>
+    <string name="loading_net_data">loading</string>
+    <string name="latest_week">Latest</string>
+    <string name="earlier">Older posts</string>
+    <string name="author_music_pause">暂停</string>
+	<string name="author_music_play">播放</string>
+    
+    <string name="app_name">Rhinitis Prevention</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="left_drawer_no_login_tip">登录后，将推荐给你更多感兴趣的文章</string>
+    <string name="left_drawer_item_search">搜索</string>
+    <string name="left_drawer_item_favorite">收藏</string>
+    <string name="left_drawer_item_message">消息</string>
+    <string name="left_drawer_item_offline">离线</string>
+    <string name="left_drawer_item_offline_cancel">取消离线</string>
+    <string name="left_drawer_item_activity">活动</string>
+    <string name="left_drawer_item_setting">设置</string>
+    <string name="left_drawer_item_feedback">反馈</string>
+    <string name="left_drawer_item_appstore">精彩应用</string>
+    <string name="drawer_right_logout_hint_text">"登录后 可关注好友评论和收藏"</string>
+    <string name="drawer_right_tip_no_login">未登录</string>
+    <string name="ss_pattern_update">发现%1$d条更新</string>
+    <string name="ss_have_a_rest">暂无更新, 休息一会儿</string>
+    <string name="action_night_mode">夜间模式</string>
+    <string name="action_day_mode">日间模式</string>
+    <string name="setting_list_mode">列表显示摘要</string>
+    <string name="setting_font_size">字体大小</string>
+    <string name="setting_list_comment">列表页评论</string>
+    <string name="setting_refresh_list">列表页刷新</string>
+    <string name="setting_load_image">2G/3G网络流量</string>
+    <string name="setting_notify">推送通知</string>
+    <string name="setting_interactive">互动插件</string>
+    <string name="setting_share_when_favor">收藏时转发</string>
+    <string name="setting_share_when_diggbury">顶踩时转发</string>
+    <string name="setting_clear">清理缓存</string>
+    <string name="setting_feedback">意见反馈</string>
+    <string name="setting_recommend">精彩应用推荐</string>
+    <string name="setting_update">检查新版本</string>
+    <string name="setting_night_mode">夜间模式</string>
+    <string name="setting_use_swipe">左右翻页</string>
+    <string name="setting_switch_domain">启动网络调试</string>
+    <string name="setting_close_shake_hand">关闭摇一摇切换夜间模式</string>
+    <string name="setting_use_help">使用帮助</string>
+    <string name="app_copyright">© 头条网 toutiao.com</string>
+    <string name="favorite_btn_delete">删除</string>
+    <string name="favorite_btn_edit">编辑</string>
+    <string name="favorite_btn_cancel">取消</string>
+    <string name="dislike_dlg_lable_speech">读文章</string>
+    <string name="empty_string"></string>
+    <string name="author_body">
+		首先感谢你来到这个界面，这说明你还是想看我哈。\n&#160;&#160;&#160;&#160;
+		【我们努力】\n
+		1、建立常见病预防是我的信念。\n
+		2、第一个理由不足以构成去努力的理由，其实啊，我们之所以努力，
+		其实是想让自己活得有尊严。前段时间温总里接受《时代周刊》
+		采访的时候就说：“我们（指政府）尽最大努力让所有的中国人活得有尊严”。\n
+		3、第二个努力的理由不直接，其实我们是为了活得有面子，不给父母负担，
+		在亲朋好友面前有面子。以上三个理由，是我们人类奋斗的源泉，
+		有不同看法的可以发邮件（下面有个发邮件的功能）交流交流，也让俺学学。\n
+		4、欢迎加入我们团队！手机:18662519725
+		\n\n&#160;&#160;&#160;&#160;&#160;&#160;
+		
+	       【我和我的理想】\n\n
+		1、我最想实现自己的人生价值——不想虚度此生。最想实现的梦想是有自己的公司（和朋友开那也算）。\n
+		2、我最想从事的职业就是：IT开发者，或者以后更加努力建立预防常见病体系团队。\n
+		3、如果有和我同样梦想的朋友，可以考虑哈，我们一起创业，前提是你出钱（当然我会压上我的家当），我出力。\n\n&#160;&#160;&#160;&#160;&#160;&#160;
+		
+		【我和我的特长】\n\n
+		1、超快的学习速度（在保证睡眠充分的情况下）。\n
+		2、和朋友做事希望两个做得开心，不想斤斤计较，够意思呗。\n
+		3、俺会吹牛，能和不同年龄阶段的人聊天，沟通效果胜过谈判专家；\n
+		4、俺高中期间做程序开发，当过工人。就得很幸福。\n
+		 但因为挂科被迫甩卖告终，这足以说明我总是一心一意做一件事吧。\n\n&#160;&#160;&#160;&#160;&#160;&#160;
+		
+		
+		【如果你是和我同梦想的朋友】\n\n
+		1、多交流吧，有时候在交流的冲动中学到很多东西。\n
+		2、我们都努力吧，争取做时代的先锋。\n
+		3、建议不要太累，身体要紧，我知道你很累，因为我也为梦想奔波累啊，但幸福。
+		\n\n&#160;&#160;&#160;&#160;&#160;&#160;
+		
+		【如果你是我的同学】\n\n
+		1、看到我的软件后给我打个电话吧，我其实很想你们，只是太忙，或者换号码后你的名单消失了。\n
+		2、其实我天天在线，但隐身，从事“地下工作”。\n
+		3、如果你们结婚了，记得告诉我一声，即使我来不了，但礼物一定到。\n
+		\n\n&#160;&#160;&#160;&#160;&#160;&#160;
+		
+		【如果你是我的家人】\n\n
+		1、爸爸，妈妈您辛苦了。\n
+		2、弟弟好好学习。\n
+		3、时间过得好快。\n
+		\n\n&#160;&#160;&#160;&#160;&#160;&#160;
+		
+		【欢迎您来邮件】\n\n
+		1、如果你是老板，嘻嘻，我喜欢，要我帮你做什么呢？先说说。\n
+		2、如果你是要交流技术，嘻嘻，相互进步一直是我的追求。\n
+		3、如果你对我的设计及功能发表了长达200字的建议或评论，
+		我将回力加倍改进程序，送你一份礼物。\n
+		4、如果你推荐给你的1个朋友，谢谢你的支持。
+		今年你发财；如果你推荐给你的10个朋友，这一辈子你发财（其实是谢谢你的支持，发财还是靠努力的）。\n
+		5、电子邮件：wwj_computeryes@163.com 
+		\n&#160;&#160;&#160;&#160;&#160;&#160;
+		
+		</string>
+</resources>

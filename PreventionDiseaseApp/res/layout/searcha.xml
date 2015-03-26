@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/green"
+        android:padding="5dp" >
+
+        <EditText
+            android:id="@+id/e_select_school"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_toLeftOf="@+id/b_cancle"
+            android:background="@drawable/border_corren_white"
+            android:drawableLeft="@drawable/ic_action_search"
+            android:hint="常见病搜索"
+            android:paddingLeft="8dip"
+            android:paddingRight="3dip"
+            android:singleLine="true"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/b_cancle"
+            android:layout_width="75dip"
+            android:layout_height="43dip"
+            android:layout_alignParentRight="true"
+            android:background="@null"
+            android:gravity="center"
+            android:text="@string/cancel"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/lv_prompt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:cacheColorHint="#00000000"
+        android:divider="@drawable/button_no_press"
+        android:dividerHeight="1dip"
+        android:scrollbars="none" />
+
+    <Button
+        android:id="@+id/clearHistory"
+        android:layout_width="150dip"
+        android:layout_height="40dip"
+        android:layout_gravity="bottom|center"
+        android:layout_margin="10dip"
+        android:visibility="gone"
+        android:background="@drawable/search_bnt_style"
+        android:cacheColorHint="#00000000"
+        android:text="清除历史" />
+
+</LinearLayout>
