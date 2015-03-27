@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <string-array name="labels">
+        <item>Browsing History</item>
+        <item>Rhinitis Prevention System</item>
+        <item>Life Tips</item>
+        <item>Recommend The Hospital</item>
+        <item>Information Feedback</item>
+        <item>About Us</item>
+    </string-array>
+     <string-array name="tab_title">
+        <item>头条</item>
+        <item>科技</item>
+        <item>财经</item>
+        <item>体育</item>
+        <item>汽车</item>
+        <item>房产</item>
+        <item>女人</item>
+        <item>情感</item>
+        <item>移动</item>
+        <item>数码</item>
+        <item>原创</item>
+        <item>另一面</item>
+    </string-array>
+</resources>

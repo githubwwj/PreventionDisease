@@ -1,0 +1,15 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:state_pressed="true"><shape android:shape="rectangle">
+        <corners android:radius="1.0dip" />
+
+            <!-- 按下按钮时的颜色 -->
+            <solid android:color="@color/dark_green" />
+        </shape></item>
+    <item android:state_focused="true"><shape android:shape="rectangle">
+
+            <!-- 鼠标放在上面时的颜色 -->
+            <solid android:color="@color/dark_green" />
+        </shape></item>
+
+</selector> <!-- 定义按钮的样式文件   现没有使用 -->

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="labels">
+        <item>浏览记录</item>
+        <item>鼻炎预防体系</item>
+        <item>生活小贴士</item>
+        <item>推荐医院</item>
+        <item>信息反馈</item>
+        <item>关于我们</item>
+    </string-array>
+
+</resources>
