@@ -1,3 +1,0 @@
-# view res/layout/slidingmenumain.xml #generated:2
--keep class com.jeremyfeinstein.slidingmenu.lib.SlidingMenu { <init>(...); }
-
